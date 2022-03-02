@@ -1,0 +1,27 @@
+# Shortcuts alloww the opening of an URI built up from a named template with additional parameters
+shortcut-add jw=https://www.jw.org/?q=$0
+shortcut-add jws=https://stream.jw.org/member/login/?q=$0
+shortcut-add tc=https://trident-schools.isams.cloud/framework/?q=$0
+shortcut-add skab=https://sentinel-schools.isams.cloud/framework/?q=$0
+shortcut-add yt=https://www.youtube.com/?q=$0
+shortcut-add gt=https://www.github.com/?q=$0
+shortcut-add claned=https://www.claned.com/?q=$0
+
+set dark-mode=true
+set spell-checking-languages=en_UK
+set spell-checking=true
+set home-page=https://www.duckduckgo.com
+set download-path=!/nmbazima/Downloads/vimb
+nnoremap L ]]
+nnoremap H [[
+
+# GUI color settings
+# Color scheme: Base16 Eighties (https://github.com/chriskempson/base16)
+set completion-css=color:#d3d0c8;background-color:#393939;font:12pt DejaVu Sans Mono;
+set completion-hover-css=color:#d3d0c8;background-color:#393939;font:12pt DejaVu Sans Mono;
+set completion-selected-css=color:#d3d0c8;background-color:#515151;font:12pt DejaVu Sans Mono;
+set input-css=color:#d3d0c8;background-color:#393939;font:12pt DejaVu Sans Mono;
+set input-error-css=color:#f2777a;background-color:#393939;font:12pt DejaVu Sans Mono;
+set status-css=color:#ffcc66;background-color:#393939;font:12pt DejaVu Sans Mono;
+set status-ssl-css=color:#99cc99;background-color:#393939;font:12pt DejaVu Sans Mono;
+set status-ssl-invalid-css=color:#f2777a;background-color:#393939;font:12pt DejaVu Sans Mono;

@@ -1,0 +1,20 @@
+# Settings
+handler-add ftp=st -e wget %s -P /tmp/vimb
+nnoremap L ]]
+nnoremap <F11> :set fullscreen!<alt><f>
+nnoremap H [[
+nnoremap ss :set stylesheet!<CR><Esc>
+nnoremap \ff :sh formfiller $VIMB_URI<CR>
+nnoremap \di :e _page.duplicateIdCheck();<CR>
+set cookie-accept=origin
+set download-path=~/Downloads/vimb
+set editor-command=st -t scratchpad -g 80x20+40+60 -e vim %s
+set history-max-items=30000
+set home-page=https://www.duckduckgo.com
+set minimum-font-size=8
+set monospace-font-size=12
+set plugins=off
+set scripts=off
+set webinspector=on
+set spell-checking-languages=en_UK
+set dark-mode=false

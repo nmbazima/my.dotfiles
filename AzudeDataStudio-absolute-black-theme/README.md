@@ -4,4 +4,9 @@ Visual Studio Code color theme that i ported to Azure data studio, copy and add 
 
 /opt/azuredatastudio/resources/app/extensions
 
+Thanks to Jaakko Leinonen and Robert Crooks all credit to them
+https://github.com/Jaakkko/vscode-black-theme
+https://github.com/rcrooks/vscode-black-theme
+
+
 
