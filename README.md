@@ -24,7 +24,7 @@ Yes, there are always multiple ways to do things, and this script, code, informa
 ![qutebrowser](/Qutebowser&Vimb.png)
 
 ## SpaceVim and AstroVIM
-![SpaceVIM](/Qutebowser&Vimb.png)
+![SpaceVIM](/spacevim&gvim.png)
 
 ## eDEX-UI
 ![eDEX-UI](/eDEX-UI.png)
