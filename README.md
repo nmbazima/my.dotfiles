@@ -7,27 +7,27 @@ Never trust any script, presentation, code or information including those that y
 
 Yes, there are always multiple ways to do things, and this script, code, information, or content may not work in every situation, for everything.
 
-**It is just a presentation, people. All scripts on this site are performed by a professional stunt driver on a closed course. Your mileage may vary. Void where prohibited. Offer good for a limited time only.**
+*It is just a presentation, people. All scripts on this site are performed by a professional stunt driver on a closed course. Your mileage may vary. Void where prohibited. Offer good for a limited time only.*
 
-#### Keep out of reach of small children. Do not operate heavy machinery while using this script. If you experience blurry vision, indigestion or diarrhea during the operation of this script, see a physician immediately
+##### Keep out of reach of small children. Do not operate heavy machinery while using this script. If you experience blurry vision, indigestion or diarrhea during the operation of this script, see a physician immediately
 
 ## Azure Data Studio Absolute black theme
-![azuredatastudio](/my-dotfiles/AzureDataStudio.png)
+![azuredatastudio](/dotfiles/AzureDataStudio.png)
 
 ## i3-gaps & i3blocks
-![i3-gaps](/my-dotfiles/i3-gaps-i3blocks.png)
+![i3-gaps](/dotfiles/i3-gaps-i3blocks.png)
 
 ## nyxt-browser
-![nyxt](/my-dotfiles/nyxtbrowser.png)
+![nyxt](/dotfiles/nyxtbrowser.png)
 
 ## qutebrowser and vimb
-![qutebrowser](/my-dotfiles/Qutebowser&Vimb.png)
+![qutebrowser](/dotfiles/Qutebowser&Vimb.png)
 
 ## SpaceVim and AstroVIM
-![SpaceVIM](/my-dotfiles/Qutebowser&Vimb.png)
+![SpaceVIM](/dotfiles/Qutebowser&Vimb.png)
 
 ## eDEX-UI
-![eDEX-UI](/my-dotfiles/eDEX-UI.png)
+![eDEX-UI](/dotfiles/eDEX-UI.png)
 
 ## Zathura
-![zathura](/my-dotfiles/Zathura.png)
+![zathura](/dotfiles/Zathura.png)
