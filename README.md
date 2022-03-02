@@ -1,11 +1,10 @@
-# dotfiles
- copy of my config files
+# My config dotfiles
 
 ## Disclaimer, for people who need to be told this sort of thing:
 
 Never trust any script, presentation, code or information including those that you find here, until you understand exactly what it does and how it will act on your systems. Always check scripts and code on a test system or Virtual Machine, not a production system. 
 
-Yes, there are always multiple ways to do things, and this script, code, information, or content may not work in every situation, for everything.
+##### Yes, there are always multiple ways to do things, and this script, code, information, or content may not work in every situation, for everything.
 
 *It is just a presentation, people. All scripts on this site are performed by a professional stunt driver on a closed course. Your mileage may vary. Void where prohibited. Offer good for a limited time only.*
 
