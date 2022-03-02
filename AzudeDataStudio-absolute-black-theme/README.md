@@ -1,0 +1,7 @@
+# Absolute Black
+
+Visual Studio Code color theme that i ported to Azure data studio, copy and add to this or browser from the color palette in Azure data studion to the extension location.
+
+/opt/azuredatastudio/resources/app/extensions
+
+

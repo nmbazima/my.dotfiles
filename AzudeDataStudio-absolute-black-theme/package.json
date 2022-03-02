@@ -1,0 +1,26 @@
+{
+    "name": "absolutely-black",
+    "displayName": "absolutely-black",
+    "description": "Absolutely black vscode color theme",
+    "publisher": "tarik02",
+    "version": "1.2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Tarik02/vscode-absolute-black"
+    },
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Absolute Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Absolute Black-color-theme.json"
+            }
+        ]
+    }
+}
