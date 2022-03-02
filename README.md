@@ -15,7 +15,7 @@ Yes, there are always multiple ways to do things, and this script, code, informa
 ![azuredatastudio](/dotfiles/AzureDataStudio.png)
 
 ## i3-gaps & i3blocks
-![i3-gaps](/dotfiles/i3-gaps-i3blocks.png)
+![i3-gaps](/i3-gaps-i3blocks.png)
 
 ## nyxt-browser
 ![nyxt](/dotfiles/nyxtbrowser.png)
