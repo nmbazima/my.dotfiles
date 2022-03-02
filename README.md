@@ -12,22 +12,22 @@ Yes, there are always multiple ways to do things, and this script, code, informa
 ##### Keep out of reach of small children. Do not operate heavy machinery while using this script. If you experience blurry vision, indigestion or diarrhea during the operation of this script, see a physician immediately
 
 ## Azure Data Studio Absolute black theme
-![azuredatastudio](/dotfiles/AzureDataStudio.png)
+![azuredatastudio](/AzureDataStudio.png)
 
 ## i3-gaps & i3blocks
 ![i3-gaps](/i3-gaps-i3blocks.png)
 
 ## nyxt-browser
-![nyxt](/dotfiles/nyxtbrowser.png)
+![nyxt](/nyxtbrowser.png)
 
 ## qutebrowser and vimb
-![qutebrowser](/dotfiles/Qutebowser&Vimb.png)
+![qutebrowser](/Qutebowser&Vimb.png)
 
 ## SpaceVim and AstroVIM
-![SpaceVIM](/dotfiles/Qutebowser&Vimb.png)
+![SpaceVIM](/Qutebowser&Vimb.png)
 
 ## eDEX-UI
-![eDEX-UI](/dotfiles/eDEX-UI.png)
+![eDEX-UI](/eDEX-UI.png)
 
 ## Zathura
-![zathura](/dotfiles/Zathura.png)
+![zathura](/Zathura.png)
